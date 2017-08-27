@@ -1,0 +1,13 @@
+C:/Users/Sam/source/repos/anzuk-test/Erika/ConsoleApp1/obj/Debug/Erika.csprojResolveAssemblyReference.cache
+C:/Users/Sam/source/repos/anzuk-test/Erika/ConsoleApp1/obj/Debug/Erika.csproj.CoreCompileInputs.cache
+C:/Users/Sam/source/repos/anzuk-test/Erika/ConsoleApp1/bin/Debug/ConsoleApp1.exe.config
+C:/Users/Sam/source/repos/anzuk-test/Erika/ConsoleApp1/bin/Debug/ConsoleApp1.exe
+C:/Users/Sam/source/repos/anzuk-test/Erika/ConsoleApp1/bin/Debug/ConsoleApp1.pdb
+C:/Users/Sam/source/repos/anzuk-test/Erika/ConsoleApp1/obj/Debug/ConsoleApp1.exe
+C:/Users/Sam/source/repos/anzuk-test/Erika/ConsoleApp1/obj/Debug/ConsoleApp1.pdb
+/Users/sam/Dropbox/ANZUK/anzuk-test/Erika/ConsoleApp1/bin/Debug/ConsoleApp1.exe.config
+/Users/sam/Dropbox/ANZUK/anzuk-test/Erika/ConsoleApp1/bin/Debug/ConsoleApp1.exe
+/Users/sam/Dropbox/ANZUK/anzuk-test/Erika/ConsoleApp1/bin/Debug/ConsoleApp1.pdb
+/Users/sam/Dropbox/ANZUK/anzuk-test/Erika/ConsoleApp1/obj/Debug/Erika.csproj.CoreCompileInputs.cache
+/Users/sam/Dropbox/ANZUK/anzuk-test/Erika/ConsoleApp1/obj/Debug/ConsoleApp1.exe
+/Users/sam/Dropbox/ANZUK/anzuk-test/Erika/ConsoleApp1/obj/Debug/ConsoleApp1.pdb
